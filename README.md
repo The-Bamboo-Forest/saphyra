@@ -10,7 +10,6 @@
 ## Requirement
 - python2
 
------------------------------------------------------------------------------------------------------------------------------
 ## Installation
 ```
 git clone https://github.com/The-Bamboo-Forest/saphyra.git
