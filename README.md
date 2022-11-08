@@ -22,7 +22,7 @@ python2 saphyra.py
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
-The use of the Saphyra & **COMPLETE
+The use of the Saphyra is **COMPLETE
 RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT
 responsible for any misuse or damage caused by this program. Also I inform you
 that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this
