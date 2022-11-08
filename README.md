@@ -23,7 +23,7 @@ python2 saphyra.py
 </p>
 
 The use of the Saphyra is **COMPLETE
-RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT
+RESPONSIBILITY of the END-USER**. I and developers assume NO liability and are NOT
 responsible for any misuse or damage caused by this program. Also I inform you
 that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this
 software to test person or company without **WRITTEN PERMISSION** from them.
