@@ -1,4 +1,4 @@
-# Saphyra
+# Saphyra v1.0
 <p align="center">
       Saphyra Priv8 iDDoS Tool ( individual Dangerous Denial Of Service )
 </p>
@@ -6,13 +6,13 @@
      DENIAL OF SERVICE | DISTRIBUTED DENIAL OF SERVICE
 </p>
 
-# Requirement
+## Requirement
 <p align="center"> python2 </p>
 
-# Installation
-<p align="center"> git clone https://github.com/The-Bamboo-Forest/saphyra.git </p>
-<p align="center"> cd saphyra/ </p>
-<p align="center"> python2 saphyra.py </p>
+## Installation
+```git clone https://github.com/The-Bamboo-Forest/saphyra.git
+cd saphyra/
+python2 saphyra.py```
 
 ## DISCLAIMER
 
