@@ -7,12 +7,14 @@
 </p>
 
 ## Requirement
-<p align="center"> python2 </p>
+- python2
 
 ## Installation
-```git clone https://github.com/The-Bamboo-Forest/saphyra.git
+```
+git clone https://github.com/The-Bamboo-Forest/saphyra.git
 cd saphyra/
-python2 saphyra.py```
+python2 saphyra.py
+```
 
 ## DISCLAIMER
 
